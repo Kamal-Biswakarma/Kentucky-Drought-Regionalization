@@ -1,0 +1,43 @@
+# Large data files (NetCDF, HDF5)
+*.nc
+*.h5
+*.hdf5
+
+# NumPy binary files
+*.npy
+
+# ArcGIS project files
+ArcGIS/
+
+# Shapefiles (large, not code)
+Shapefiles/
+
+# Temporary/lock files
+*.lock
+~$*
+
+# Microsoft Office temp files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# Word documents, PDFs, PowerPoints (manuscript files)
+*.docx
+*.pdf
+*.pptx
+
+# TIFF images
+*.tiff
+*.tif
+*.aux.xml
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# 1st revision folder (manuscript revisions)
+1st revision/
